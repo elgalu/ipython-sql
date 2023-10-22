@@ -13,7 +13,7 @@ version = "0.5.0"
 install_requires = [
     "prettytable",
     "ipython",
-    "sqlalchemy>=2.0",
+    "sqlalchemy",
     "sqlparse",
     "six",
     "ipython-genutils",
